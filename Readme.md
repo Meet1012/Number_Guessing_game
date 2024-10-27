@@ -2,7 +2,7 @@
 
 Welcome to the **Number Guessing Game**! This interactive game challenges you to guess a randomly generated number within a set number of attempts. Each difficulty level changes the number of attempts, so choose wisely!
 
-**Project Link:** ![Number Guessing](https://roadmap.sh/projects/number-guessing-game)
+**Project Link:** [Number Guessing](https://roadmap.sh/projects/number-guessing-game)
 
 ## 📜 Table of Contents
 - [Features](#-features)
