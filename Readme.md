@@ -40,16 +40,6 @@ Welcome to the **Number Guessing Game**! This interactive game challenges you to
 ## 🏆 Leaderboard
 Each successful game records the number of attempts you used to guess the number. You can view, reset, or continue to update your leaderboard based on performance across each difficulty level.
 
-### Displayed as:
-+--------------+----------+
-| Difficulty   |   Values |
-+==============+==========+
-| Easy         |        9 |
-+--------------+----------+
-| Medium       |        5 |
-+--------------+----------+
-| Hard         |        3 |
-+--------------+----------+
 
 ## 💻 Installation
 1. Clone the repository:
